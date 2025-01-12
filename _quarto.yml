@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: _docs
 
 website:
   title: "quarto_website_compute_render_locally"
